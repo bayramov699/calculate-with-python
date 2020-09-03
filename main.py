@@ -22,4 +22,4 @@ elif operator == '*':
 elif operator == '/':
     result = number1 / number2
 
-print("Dear," + name + ", your result is equal to" + str(result))
+print("Dear " + name + ", your result is equal to " + str(result))
